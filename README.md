@@ -2,4 +2,4 @@
 
 to run the website :
 
-````php artisan serve```
+```php artisan serve```
